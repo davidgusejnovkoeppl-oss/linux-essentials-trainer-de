@@ -44,7 +44,7 @@ Ziel dieses Projekts ist es einfach, **eine kostenlose Lernmöglichkeit auf Deut
 ## Start
 
 1. ZIP-Datei entpacken
-2. `linux_essentials_gui_v4.exe` doppelklicken
+2. `linux_essentials_trainer_v7_1_fixed.exe` doppelklicken
 
 ---
 
@@ -78,6 +78,7 @@ Linux Essentials Quiz Deutsch
 Linux Essentials practice questions
 Linux Essentials exam preparation
 LPI 010-160 practice
+
 
 
 
