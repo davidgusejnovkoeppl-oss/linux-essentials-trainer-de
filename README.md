@@ -1,4 +1,5 @@
-# Linux Essentials 010-160 – Prüfungstrainer (Deutsch)
+# Linux Essentials 010-160 Prüfungstrainer Deutsch
+Kostenloser Linux Essentials 010-160 Prüfungstrainer auf Deutsch mit ca. 300 Fragen, Prüfungssimulation und Lernmodus.
 
 ### 300 Fragen – Offline Lernprogramm
 
@@ -63,3 +64,18 @@ Wenn dir das Programm beim Lernen hilft, freut mich das sehr.
 
 Viele Grüße
 **David GK**
+
+
+
+## Keywords
+
+Linux Essentials Deutsch  
+Linux Essentials 010-160 lernen  
+Linux Essentials Prüfung Vorbereitung  
+Linux Essentials Übungsfragen  
+LPI Linux Essentials Training  
+Linux Essentials Quiz Deutsch
+Linux Essentials practice questions
+Linux Essentials exam preparation
+LPI 010-160 practice
+
