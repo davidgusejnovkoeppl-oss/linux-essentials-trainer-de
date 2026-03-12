@@ -29,7 +29,7 @@ Das Programm beinhaltet derzeit **ca. 300 Fragen** aus verschiedenen Themenberei
 ## Wichtige Hinweise
 
 * Das Programm wurde **nicht professionell entwickelt** und ist nur als **Lernhilfe** gedacht.
-* Es wurde innerhalb von **etwa 3 Stunden erstellt**.
+* Es wurde innerhalb von **1 Tag erstellt**.
 * Es können **kleine Rechtschreibfehler** enthalten sein.
 * Ich garantiere **nicht**, dass jede Frage oder Antwort zu **100 % korrekt** ist.
 * Nach mehreren Durchläufen sind mir jedoch **keine offensichtlichen Fehler** in den Antworten aufgefallen.
@@ -78,6 +78,7 @@ Linux Essentials Quiz Deutsch
 Linux Essentials practice questions
 Linux Essentials exam preparation
 LPI 010-160 practice
+
 
 
 
